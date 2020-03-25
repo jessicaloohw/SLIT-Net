@@ -209,7 +209,7 @@ def main():
                                                            num_classes=NUM_CLASSES)
 
         # Write to file:
-        write_performance_metrics(WRITE_FILENAME, class_dice, pred_area, truth_area, class_hd)
+        write_performance_metrics(WRITE_FILENAME, class_dice, class_hd, pred_area, truth_area)
 
     print('Finished.')
 
