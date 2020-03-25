@@ -3,7 +3,7 @@
 %
 
 % Common settings:
-pathToDataset = 'Datasets/dataset.mat';
+pathToDataset = 'Datasets/annotations.mat';
 saveFolder = 'Datasets';
 pathToIdxs = 'Datasets/idxs.mat';
 idxsToExclude = [];
