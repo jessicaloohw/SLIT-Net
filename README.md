@@ -1,8 +1,13 @@
-To be updated.
+#SLIT-Net
 
-1. Dataset preparation
-SLITNet_splitDatasets.m
+**Link to paper:** [to insert link].
 
-2. Running SLIT-Net
-SLITNet_pipeline_white.sh
-SLITNet_pipeline_blue.sh
+* Dataset download
+* Please download the data from: [to insert link]
+
+* Dataset preparation  
+* ```SLITNet_splitDatasets.m```
+
+* Running SLIT-Net
+* ```SLITNet_pipeline_white.sh```
+* ```SLITNet_pipeline_blue.sh```
