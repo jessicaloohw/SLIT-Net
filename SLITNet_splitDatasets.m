@@ -2,7 +2,7 @@
 % SLIT-Net
 % DOI: 10.1109/JBHI.2020.2983549
 %
-% Split datasets into 7-fold:
+% Split datasets into 7-fold
 %
 
 % Common settings:
