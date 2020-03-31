@@ -1,4 +1,3 @@
-The contens of this folder are from: https://github.com/matterport/Mask_RCNN
+The contents of this folder are from: https://github.com/matterport/Mask_RCNN
 
-Download mask_rcnn_coco.h5 (pre-trained weights) and put in this folder.
-
+Please download the pre-trained weights (```mask_rcnn_coco.h5```) from: https://github.com/matterport/Mask_RCNN
