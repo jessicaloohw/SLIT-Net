@@ -8,8 +8,7 @@ This repository contains the code for "J. Loo, M.F. Kriegel, M.M. Tuohy, K.H. Ki
     * Please download the data from: [to insert link]
 
 * Dataset preparation  
-    * ```SLITNet_splitDatasets.m```
+    * Please see ```SLITNet_splitDatasets.m```
 
 * Running SLIT-Net
-    * ```SLITNet_pipeline_white.sh```
-    * ```SLITNet_pipeline_blue.sh```
+    * Please see ```SLITNet_pipeline_white.sh``` and ```SLITNet_pipeline_blue.sh```
