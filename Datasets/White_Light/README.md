@@ -1,1 +1,1 @@
-Download .tif images and put in this folder.
+Please download the .tif images from: [to insert link]
