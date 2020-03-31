@@ -1,1 +1,1 @@
-Download annotations.mat and put in this folder.
+Please download the annotations from: [to insert link]
