@@ -1,6 +1,8 @@
 #!/bin/bash
 export CUDA_VISIBLE_DEVICES=1
 
+# SLIT-Net
+# DOI: 10.1109/JBHI.2020.2983549
 
 # Main directory:
 MODEL_DIR='Models/Blue_Light'

@@ -1,3 +1,6 @@
+# SLIT-Net
+# DOI: 10.1109/JBHI.2020.2983549
+
 import os
 import sys
 import time

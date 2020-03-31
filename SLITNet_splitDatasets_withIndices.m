@@ -1,4 +1,8 @@
 function [] = SLITNet_splitDatasets_withIndices(pathToDataset, trainIdxs, valIdxs, testIdxs, saveFolder, saveTag, deleteAfterSplit)
+%
+% SLIT-Net
+% DOI: 10.1109/JBHI.2020.2983549
+%
 
 clearvars -except pathToDataset trainIdxs valIdxs testIdxs saveFolder saveTag deleteAfterSplit
 

@@ -1,5 +1,8 @@
 %
-% Split datasets into7-fold (7 x 19 = 133):
+% SLIT-Net
+% DOI: 10.1109/JBHI.2020.2983549
+%
+% Split datasets into 7-fold:
 %
 
 % Common settings:

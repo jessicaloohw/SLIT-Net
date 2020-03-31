@@ -1,3 +1,6 @@
+# SLIT-Net
+# DOI: 10.1109/JBHI.2020.2983549
+
 import matplotlib
 matplotlib.use('agg')
 print('matplotlib using {} backend'.format(matplotlib.get_backend()))

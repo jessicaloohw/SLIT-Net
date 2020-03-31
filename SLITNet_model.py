@@ -6,7 +6,11 @@ Copyright (c) 2017 Matterport, Inc.
 Licensed under the MIT License (see LICENSE for details)
 Written by Waleed Abdulla
 
-Modified by Jessica Loo for SLIT-Net.
+---
+SLIT-Net
+DOI: 10.1109/JBHI.2020.2983549
+Modified by Jessica Loo
+
 """
 
 import os
