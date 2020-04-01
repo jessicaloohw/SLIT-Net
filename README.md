@@ -6,7 +6,7 @@ This repository contains the code for "J. Loo, M.F. Kriegel, M.M. Tuohy, K.H. Ki
 **DOI:** 10.1109/JBHI.2020.2983549
 
 * Dataset download
-    * Please download the data from: [link to be provided soon]
+    * Please download the data from: https://www.dropbox.com/s/4wxp34yigo6sgr0/Loo_Datasets_JBHI_2020.zip?dl=0
 
 * Dataset preparation  
     * Please see ```SLITNet_splitDatasets.m```
