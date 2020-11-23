@@ -22,3 +22,14 @@ python SLITNet_test_blue.py $MODEL_DIR 'K4' xx 'K4'
 python SLITNet_test_blue.py $MODEL_DIR 'K5' xx 'K5'
 python SLITNet_test_blue.py $MODEL_DIR 'K6' xx 'K6'
 python SLITNet_test_blue.py $MODEL_DIR 'K7' xx 'K7'
+
+# Testing with trained models (uncomment to use):
+MODEL_DIR='Trained_Models/Blue_Light'
+
+#python SLITNet_test_blue.py $MODEL_DIR 'K1' 88 'K1'
+#python SLITNet_test_blue.py $MODEL_DIR 'K2' 99 'K2'
+#python SLITNet_test_blue.py $MODEL_DIR 'K3' 87 'K3'
+#python SLITNet_test_blue.py $MODEL_DIR 'K4' 86 'K4'
+#python SLITNet_test_blue.py $MODEL_DIR 'K5' 91 'K5'
+#python SLITNet_test_blue.py $MODEL_DIR 'K6' 83 'K6'
+#python SLITNet_test_blue.py $MODEL_DIR 'K7' 92 'K7'
