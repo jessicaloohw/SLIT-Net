@@ -1,5 +1,5 @@
-tensorflow=1.5.1
-keras=2.0.8
+tensorflow==1.5.1
+keras==2.0.8
 numpy
 scipy
 scikit-image
