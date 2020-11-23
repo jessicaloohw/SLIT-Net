@@ -6,3 +6,5 @@ scikit-image
 pickle
 matplotlib
 imgaug
+warnings
+h5py
