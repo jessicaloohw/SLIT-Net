@@ -6,7 +6,7 @@ This repository contains the code for "J. Loo, M.F. Kriegel, M.M. Tuohy, K.H. Ki
 **DOI:** 10.1109/JBHI.2020.2983549
 
 * Dataset download
-    * Please download the datasets from: https://www.dropbox.com/s/4wxp34yigo6sgr0/Loo_Datasets_JBHI_2020.zip?dl=0
+    * Please download the datasets from: https://duke.box.com/s/iess8rryyn6oo5607aj83tl1hg3o49kk
     
 * Trained models download
    * Please download the trained models from: https://duke.box.com/s/lm1im3y5oy2k574ng0yjxm89ubis8z40
